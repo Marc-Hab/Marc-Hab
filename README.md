@@ -19,5 +19,5 @@ I'm a passionate software engineer with a strong focus on building efficient, sc
 
 ### 💬 Let's Connect
 
-- 📍 [LinkedIn](linkedin.com/in/marchelino-habchi-779a99205)
+- 📍 [LinkedIn](https://www.linkedin.com/in/marchelino-habchi-779a99205)
 - 📧 [Email](mailto:marchelinohabchi@gmail.com)
