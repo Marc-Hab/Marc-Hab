@@ -14,8 +14,8 @@ I'm a passionate software engineer focused on developing clean, maintainable sof
 
 ### 🛠️ Projects
 
-* [**InteractEngine - AI-Powered Dynamic Character Intercation System**](https://github.com/Marc-Hab/ConUHacksX): A TypeScript and React-based character engine featuring deterministic emotional states, conditional knowledge unlocking, LLM-driven dialogue (Claude 3.5), and emotion-aware voice synthesis via ElevenLabs.
-* [**FoodFlow**](https://github.com/SOEN490-CAPSTONE2026/FoodFlow): A full-stack food redistribution platform built with React, Spring Boot, PostgreSQL, and Docker, connecting businesses with verified charities to coordinate real-time surplus food donations.
+* [**InteractEngine - AI-Powered Dynamic Character Intercation System**](https://github.com/Marc-Hab/ConUHacksX) : A TypeScript and React-based character engine featuring deterministic emotional states, conditional knowledge unlocking, LLM-driven dialogue (Claude 3.5), and emotion-aware voice synthesis via ElevenLabs.
+* [**FoodFlow**](https://github.com/SOEN490-CAPSTONE2026/FoodFlow) : A full-stack food redistribution platform built with React, Spring Boot, PostgreSQL, and Docker, connecting businesses with verified charities to coordinate real-time surplus food donations.
 
 ### 💬 Let's Connect
 
