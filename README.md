@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Marchelino
 
-## 🚀 Software Engineer | Full-Stack Developer, Databases, Cybersecurity Enthusiast
+## 🚀 Software Engineer | Full-Stack Developer, Machine Learning, Cybersecurity Enthusiast
 
-I'm a passionate software engineer with a strong focus on building efficient, scalable software applications. I enjoy solving complex problems and continuously learning new technologies. Currently, I'm diving deeper into backend development and cybersecurity.
+I'm a passionate software engineer focused on developing clean, maintainable software applications. I enjoy solving complex problems and continuously learning new technologies. Currently, I'm diving deeper into machine learning and cybersecurity.
 
 ### 🧰 Technical Skills
 
