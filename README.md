@@ -7,7 +7,7 @@ I'm a passionate software engineer focused on developing clean, maintainable sof
 ### 🧰 Technical Skills
 
 - **Languages**: Python, JavaScript, SQL  
-- **Frameworks**: Django, React, Node.js  
+- **Frameworks**: Django, React, Node.js, PyTorch
 - **Tools**: Docker, Git, GitHub Actions, Postman  
 - **Databases**: PostgreSQL, SQLite  
 - **Other**: REST APIs, Agile workflows, Unit testing, CI/CD basics
