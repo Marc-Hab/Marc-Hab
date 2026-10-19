@@ -1,21 +1,23 @@
 # Hi there! 👋 I'm Marchelino
 
-## 🚀 Software Engineer | Full-Stack Developer, Machine Learning, Cybersecurity Enthusiast
+## 🚀 Software Engineer
 
-I'm a passionate software engineer focused on developing clean, maintainable software applications. I enjoy solving complex problems and continuously learning new technologies. Currently, I'm diving deeper into machine learning and cybersecurity.
-
-### 🧰 Technical Skills
-
-- **Languages**: Python, JavaScript, SQL  
-- **Frameworks**: Django, React, Node.js, PyTorch
-- **Tools**: Docker, Git, GitHub Actions, Postman  
-- **Databases**: PostgreSQL, SQLite  
-- **Other**: REST APIs, Agile workflows, Unit testing, CI/CD basics
+I'm a recent Software Engineering graduate from Concordia University. Below are some of the projects I've built.
 
 ### 🛠️ Projects
 
-* [**InteractEngine - AI-Powered Dynamic Character Interaction System**](https://github.com/Marc-Hab/ConUHacksX) : A TypeScript and React-based character engine featuring deterministic emotional states, conditional knowledge unlocking, LLM-driven dialogue (Claude 3.5), and emotion-aware voice synthesis via ElevenLabs.
-* [**FoodFlow**](https://github.com/SOEN490-CAPSTONE2026/FoodFlow) : A full-stack food redistribution platform built with React, Spring Boot, PostgreSQL, and Docker, connecting businesses with verified charities to coordinate real-time surplus food donations.
+- [**Handwritten Mathematical Symbol Recognition**](https://colab.research.google.com/drive/1Jj23Q_30XxQ-CbFLamjHerAa-CCFxaKR#scrollTo=814720b7) : PyTorch pipeline classifying 168,233 symbol images across 369 classes. A pretrained ResNet-18 reached 84.55% test accuracy vs 80.95% for a baseline CNN.
+- [**InteractEngine**](https://github.com/Marc-Hab/ConUHacksX) : TypeScript and React character engine with deterministic emotional states, conditional knowledge unlocking, LLM-driven dialogue (Claude 3.5) and emotion-aware voice via ElevenLabs. Built at ConUHacksX.
+- [**FoodFlow**](https://github.com/SOEN490-CAPSTONE2026/FoodFlow) : Full-stack food redistribution platform built with React, Spring Boot, PostgreSQL and Docker, connecting businesses with verified charities to coordinate surplus food donations.
+- [**Concordia Campus Guide (Backend)**](https://github.com/Marc-Hab/campus-navigation-app) : Django REST and PostgreSQL API for indoor campus navigation, with dynamic shortest-path, nearest-amenity and accessible routing.
+- [**Peerly**](https://github.com/Marc-Hab/peer-evaluation-website) : Peer assessment platform built with React, Flask, PostgreSQL and Docker, with JWT auth and role-based access for students and instructors.
+
+### 🧰 Technical Skills
+
+- **Languages**: Python, C++, Java, JavaScript, TypeScript, C, C#, SQL
+- **Frameworks & Libraries**: React, Flask, Django, Spring Boot, PyTorch, Pandas, NumPy
+- **Tools**: Docker, Git, GitHub, Mercurial, Postman
+- **Databases**: PostgreSQL, MySQL
 
 ### 💬 Let's Connect
 
