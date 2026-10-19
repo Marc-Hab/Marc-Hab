@@ -12,12 +12,6 @@ I'm a recent Software Engineering graduate from Concordia University. Below are 
 - [**Concordia Campus Guide (Backend)**](https://github.com/Marc-Hab/campus-navigation-app) : Django REST and PostgreSQL API for indoor campus navigation, with dynamic shortest-path, nearest-amenity and accessible routing.
 - [**Peerly**](https://github.com/Marc-Hab/peer-evaluation-website) : Peer assessment platform built with React, Flask, PostgreSQL and Docker, with JWT auth and role-based access for students and instructors.
 
-### 🧰 Technical Skills
-
-- **Languages**: Python, C++, Java, JavaScript, TypeScript, C, C#, SQL
-- **Frameworks & Libraries**: React, Flask, Django, Spring Boot, PyTorch, Pandas, NumPy
-- **Tools**: Docker, Git, GitHub, Mercurial, Postman
-- **Databases**: PostgreSQL, MySQL
 
 ### 💬 Let's Connect
 
